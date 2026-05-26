@@ -1,3 +1,6 @@
+#---------------Day 1 ---------------
+#rectangless_calculations_make_easy _code--------
+
 print("----cool_step mod on----")
 
 def cool_step():
